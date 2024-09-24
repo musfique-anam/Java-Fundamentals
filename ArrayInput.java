@@ -13,7 +13,4 @@ public class ArrayInput {
         for(int i=0 ; i<limit ; i++)
             System.out.println(array[i]);
     }
-    
-    
-    
 }
