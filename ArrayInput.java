@@ -12,8 +12,5 @@ public class ArrayInput {
         System.out.println("Array elements are:");
         for(int i=0 ; i<limit ; i++)
             System.out.println(array[i]);
-    }
-    
-    
-    
+    } 
 }
