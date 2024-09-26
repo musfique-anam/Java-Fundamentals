@@ -12,9 +12,6 @@ public class ArrayInput {
         System.out.println("Array elements are:");
         for(int i=0 ; i<limit ; i++)
             System.out.println(array[i]);
-<<<<<<< HEAD
-    } 
-=======
-    }
->>>>>>> 59c7b6ea3db3cf2d015aea63652edb79c24614ae
+    }    
 }
+
