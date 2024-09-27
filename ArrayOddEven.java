@@ -21,6 +21,5 @@ public class ArrayOddEven {
                 ++countOdd;
         System.out.println("Count of total odd numbers are :"+countOdd);
         System.out.println("Count of total even numbers are :"+countEven);
-    }
-    
+    }    
 }
