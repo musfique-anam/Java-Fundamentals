@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class SumNaturalNum {
     public static void main(String[] args) {
-        Scanner reader=new Scanner(System.in);
+            Scanner reader=new Scanner(System.in);
             System.out.println("Sum from : ");
             int value1=reader.nextInt();
             System.out.println("Sum from "+value1+" to :");
