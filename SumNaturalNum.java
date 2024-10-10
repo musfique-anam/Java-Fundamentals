@@ -1,4 +1,3 @@
-package JavaFundamentals;
 import java.util.Scanner;
 public class SumNaturalNum {
     public static void main(String[] args) {
