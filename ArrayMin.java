@@ -1,4 +1,3 @@
-package JavaFundamentals;
 import java.util.Scanner;
 public class ArrayMin {
     public static void main(String[] args) {
