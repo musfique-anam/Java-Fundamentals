@@ -1,4 +1,3 @@
-package JavaFundamentals;
 public class MultiplicationOOP {
     private int value1,value2;
     MultiplicationOOP(){
