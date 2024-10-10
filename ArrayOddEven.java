@@ -1,4 +1,3 @@
-package JavaFundamentals;
 import java.util.Scanner;
 public class ArrayOddEven {
     public static void main(String[] args) {
